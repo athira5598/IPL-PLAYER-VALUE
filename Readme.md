@@ -24,7 +24,7 @@ This, prediction of the value will also give an idea of what the maximum value a
 
 ## Web Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/athira5598/IPL-PLAYER-VALUE/blob/main/IPL.png)
 
   
 ## 🔗 Web Page Link
